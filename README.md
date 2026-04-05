@@ -1,55 +1,74 @@
-## Hi there 👋
-🚀 Passionate about Machine Learning and Python Development
+# Hi, I'm Aditya 👋
 
-🧠 About Me
-Exploring Machine Learning
-Focused on understanding how models actually work
-learner and builder
-⚙️ Skills
-Languages: Python
+### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
-Machine Learning:
+---
 
-Linear Regression
-Logistic Regression
-KNN
-Decision Trees
-Random Forest
-SVM
-XGBoost
-Concepts:
+## 🚀 About Me
 
-Regularization (L1 / L2)
-Bias–Variance
-Cross Validation
-Hyperparameter Tuning
-Libraries: NumPy, Pandas, scikit-learn
+* Currently focused on **AI/ML and building real-world projects**
+* Strong foundation in **Python, Data Structures, and Machine Learning**
+* Learning to build **AI systems, chatbots, and intelligent applications**
+* Passionate about **creating useful AI-powered solutions**
 
-📂 Projects
-🎯 Student Performance Predictor (ML Project)
-🎤 Voice Command AI
-🎮 Snake Water Gun Game
-🎯 Number Guessing Game
-📈 Current Focus
-Machine Learning
-Improving project depth and real-world applications
-💡 Mindset
-Improving
+---
 
-📫 Connect With Me
-GitHub: https://github.com/ADITYA-S-SURYAWANSHI
-⭐ Always learning, building, and improving
-<!--
-**ADITYA-THEE-CODER/ADITYA-THEE-CODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
 
-Here are some ideas to get you started:
+### 💻 Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Basic Java
+
+### 📊 Machine Learning
+
+* Linear Regression
+* Logistic Regression
+* KNN
+* Decision Trees
+* Random Forest
+
+### 📦 Libraries & Tools
+
+* NumPy
+* Pandas
+* Scikit-learn
+
+### ⚙️ Concepts
+
+* Feature Scaling
+* Overfitting & Underfitting
+* Model Evaluation (MAE, R²)
+* Train/Test Split
+
+---
+
+## 🤖 What I'm Building
+
+* AI Chatbots
+* Machine Learning Prediction Systems
+* AI-based Assistant Projects
+
+---
+
+## 📈 Current Focus
+
+* Building **end-to-end AI projects**
+* Learning **AI system design**
+* Improving **real-world problem solving**
+
+---
+
+## 🎯 Goal
+
+To become a **skilled AI Engineer** and build impactful AI systems.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (add your link here)
+
+---
+
+⭐ *“Learning by building every day.”*
