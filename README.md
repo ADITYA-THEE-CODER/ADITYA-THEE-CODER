@@ -6,10 +6,11 @@
 
 ## 🚀 About Me
 
-* Currently focused on **AI/ML and building real-world projects**
-* Strong foundation in **Python, Data Structures, and Machine Learning**
-* Learning to build **AI systems, chatbots, and intelligent applications**
-* Passionate about **creating useful AI-powered solutions**
+* AI/ML learner with a strong focus on **building real systems .
+* Completed core foundations of **Python, Data Structures, and Machine Learning**
+* Built multiple ML models and currently working on **AI chatbots and intelligent systems**
+* Learning **APIs, system design, and real-world AI applications**
+* Consistently improving with a **builder mindset and daily practice**
 
 ---
 
@@ -17,7 +18,7 @@
 
 ### 💻 Programming
 
-* Python
+* Python (Strong)
 
 
 ### 📊 Machine Learning
@@ -40,28 +41,30 @@
 * Overfitting & Underfitting
 * Model Evaluation (MAE, R²)
 * Train/Test Split
+* Basic Model Optimization
 
 ---
 
-## 🤖 What I'm Building
+## 🤖 Projects & Work
 
-* AI Chatbots
-* Machine Learning Prediction Systems
-* AI-based Assistant Projects
+* Built Machine Learning models for prediction tasks
+* Developed rule-based and AI-based chatbot systems
+* Practiced multiple problem-solving and logic-building patterns
+* Currently working on **end-to-end AI projects**
 
 ---
 
 ## 📈 Current Focus
 
-* Building **end-to-end AI projects**
-* Learning **AI system design**
-* Improving **real-world problem solving**
+* Building **complete AI systems (input → processing → output)**
+* Learning **API integration and AI application development**
+* Improving **project quality and real-world usability**
 
 ---
 
 ## 🎯 Goal
 
-To become a **skilled AI Engineer** and build impactful AI systems.
+To become a **high-level AI Engineer** capable of building impactful AI systems and applications.
 
 ---
 
@@ -71,4 +74,4 @@ To become a **skilled AI Engineer** and build impactful AI systems.
 
 ---
 
-⭐ *“Learning by building every day.”*
+⭐ *Focused on building, improving, and leveling up every single day.*
