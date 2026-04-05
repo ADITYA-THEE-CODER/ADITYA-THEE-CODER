@@ -18,7 +18,7 @@
 ### 💻 Programming
 
 * Python
-* Basic Java
+
 
 ### 📊 Machine Learning
 
