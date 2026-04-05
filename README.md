@@ -70,7 +70,7 @@ To become a **high-level AI Engineer** capable of building impactful AI systems 
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link here)
+* mail : adityassuryawanshi25@gmail.com
 
 ---
 
