@@ -47,6 +47,12 @@
 
 ## 🤖 Projects & Work
 
+* Student Performance Predictor
+* AI Chatbot System
+* VOICE COMMAND AI
+* NUMBER GUESSING GAME
+* SNAKE-WATER-GUN GAME
+* BETTER ML MODEL PREDICTOR 
 * Built Machine Learning models for prediction tasks
 * Developed rule-based and AI-based chatbot systems
 * Practiced multiple problem-solving and logic-building patterns
