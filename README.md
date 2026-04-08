@@ -2,6 +2,8 @@
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
+## 🚀 Live Demo of my 1st AI chatbot
+[Click here to use the chatbot](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/
 ---
 
 ## 🚀 About Me
