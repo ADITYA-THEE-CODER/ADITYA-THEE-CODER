@@ -2,14 +2,10 @@
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
-## 🚀 Live Demo of my 1st AI chatbot , 
-This ia a real-time AI chatbot built using Groq API and Streamlit.
-[Click here to use the chatbot](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/
 
-
-
-## 🚀 Try My AI Chatbot  
-👉 **[Launch App](https://fully-functioning-chatbot---2-xljtzjghkuibabytkgmwp.streamlit.app/)**
+## 🚀 Try My 1st AI Chatbot  
+--This ia a real-time AI chatbot built using Groq API and Streamlit. 
+👉 **[Launch App](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)**
 ---
 
 ## 🚀 About Me
