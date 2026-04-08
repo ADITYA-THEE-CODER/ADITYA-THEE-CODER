@@ -6,7 +6,7 @@
 ## 🚀 Try My 1st AI Chatbot  
 --This ia a real-time AI chatbot built using Groq API and Streamlit. 
 
-👉 [![🚀 Launch Chatbot](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
+👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
 ---
 
 ## 🚀 About Me
