@@ -9,80 +9,39 @@
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
 ---
 
-## 🚀 About Me
+🧠 Skills
+💻 Programming
+Python
+📊 Machine Learning (Advanced)
+XGBoost
+AdaBoost
+Support Vector Machines (SVM)
+Regularization (L1/L2)
+Bias–Variance Tradeoff
+Feature Scaling
+Hyperparameter Tuning
+⚙️ Core Concepts
+API Integration
+State & Memory Handling
+Model Evaluation & Optimization
+Overfitting & Underfitting
+🛠️ What I Do
+Build AI-powered applications (not just models)
+Design systems with input → processing → output flow
+Develop chatbots with memory and context awareness
+Focus on real-world usable AI systems
+📈 Current Focus
+Building end-to-end AI applications
+Improving project quality to production level
+Learning prompt engineering & system design
+🎯 Goal
 
-* AI/ML learner with a strong focus on **building real systems .
-* Completed core foundations of **Python, Data Structures, and Machine Learning**
-* Built multiple ML models and currently working on **AI chatbots and intelligent systems**
-* Learning **APIs, system design, and real-world AI applications**
-* Consistently improving with a **builder mindset and daily practice**
+To become a high-level AI Engineer building impactful AI systems.
 
----
+📫 Contact
 
-## 🧠 Skills
+📧 adityassuryawanshi25@gmail.com
 
-### 💻 Programming
-
-* Python (Strong)
-
-
-### 📊 Machine Learning
-
-* Linear Regression
-* Logistic Regression
-* KNN
-* Decision Trees
-* Random Forest
-
-### 📦 Libraries & Tools
-
-* NumPy
-* Pandas
-* Scikit-learn
-
-### ⚙️ Concepts
-
-* Feature Scaling
-* Overfitting & Underfitting
-* Model Evaluation (MAE, R²)
-* Train/Test Split
-* Basic Model Optimization
-
----
-
-## 🤖 Projects & Work
-
-* Student Performance Predictor
-* AI Chatbot System
-* VOICE COMMAND AI
-* NUMBER GUESSING GAME
-* SNAKE-WATER-GUN GAME
-* BETTER ML MODEL PREDICTOR 
-* Built Machine Learning models for prediction tasks
-* Developed rule-based and AI-based chatbot systems
-* Practiced multiple problem-solving and logic-building patterns
-* Currently working on **end-to-end AI projects**
-
----
-
-## 📈 Current Focus
-
-* Building **complete AI systems (input → processing → output)**
-* Learning **API integration and AI application development**
-* Improving **project quality and real-world usability**
-
----
-
-## 🎯 Goal
-
-To become a **high-level AI Engineer** capable of building impactful AI systems and applications.
-
----
-
-## 📫 Connect With Me
-
-* mail : adityassuryawanshi25@gmail.com
-
----
+⭐ Focused on building real systems and improving every day.
 
 ⭐ *Focused on building, improving, and leveling up every single day.*
