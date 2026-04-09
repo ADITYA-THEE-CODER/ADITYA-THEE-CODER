@@ -39,7 +39,7 @@
 
 ## 🛠️ What I Do
 
-* Build AI-powered applications (not just models)
+* Build AI-powered applications 
 * Design systems with input → processing → output flow
 * Develop chatbots with memory and context awareness
 * Focus on real-world usable AI systems
