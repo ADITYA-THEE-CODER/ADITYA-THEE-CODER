@@ -6,6 +6,13 @@
 [![Try Nexovia AI](https://img.shields.io/badge/Try-Nexovia_AI-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
 
 -----------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
+    <img src="https://img.shields.io/badge/Launch-Nexovia_AI-6C63FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+</p>
+
+-----------------------------------------------------------------------------------
 # Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
