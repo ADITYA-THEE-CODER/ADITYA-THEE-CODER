@@ -10,7 +10,7 @@
 
 ----
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
 ----
 
