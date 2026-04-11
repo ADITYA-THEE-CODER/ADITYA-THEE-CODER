@@ -1,5 +1,5 @@
 # Hi, I'm Aditya 👋
-
+### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---------------------------------------------------------------------------------
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
@@ -14,10 +14,6 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
 ---------------------------------------------------------------------------------
-
-
-
-### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---
 
