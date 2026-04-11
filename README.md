@@ -2,15 +2,19 @@
 --  ABOUT ME 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
+---------------------------------------------------------------------------------
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-thee-coder&show_icons=true&theme=tokyonight)
 
 ----
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
 ----
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-thee-coder&layout=compact&theme=tokyonight)
 
+---------------------------------------------------------------------------------
 ----
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
