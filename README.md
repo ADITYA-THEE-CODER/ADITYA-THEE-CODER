@@ -2,7 +2,7 @@
 --  ABOUT ME 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&hideborder=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
 ----
 
