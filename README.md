@@ -39,56 +39,83 @@
 ## 🧠 Skills
 
 ### 💻 Programming
+- Python  
+- Basic SQL  
+- Git & GitHub  
 
-* Python
+### 🤖 AI / Machine Learning
+- Supervised Learning  
+- Linear Regression  
+- Logistic Regression  
+- KNN  
+- Decision Trees  
+- Random Forest  
+- XGBoost  
+- AdaBoost  
+- Support Vector Machines (SVM)  
+- Regularization (L1/L2)  
+- Feature Scaling  
+- Hyperparameter Tuning  
+- Cross Validation  
+- Bias–Variance Tradeoff  
+- Model Evaluation & Optimization  
 
-### 📊 Machine Learning (Advanced)
-
-* XGBoost
-* AdaBoost
-* Support Vector Machines (SVM)
-* Regularization (L1/L2)
-* Bias–Variance Tradeoff
-* Feature Scaling
-* Hyperparameter Tuning
+### 🧰 Libraries / Tools
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Streamlit  
+- LangChain  
+- Groq API  
+- Hugging Face  
+- Google Colab  
+- VS Code  
 
 ### ⚙️ Core Concepts
-
-* API Integration
-* State & Memory Handling
-* Model Evaluation & Optimization
-* Overfitting & Underfitting
+- API Integration  
+- Prompt Engineering  
+- State & Memory Handling  
+- Context Management  
+- Overfitting & Underfitting  
+- End-to-End ML Workflow  
+- Input → Processing → Output System Design  
 
 ---
 
 ## 🛠️ What I Do
 
-* Build AI-powered applications 
-* Design systems with input → processing → output flow
-* Develop chatbots with memory and context awareness
-* Focus on real-world usable AI systems
+- Build AI-powered applications  
+- Develop chatbots with memory and context awareness  
+- Integrate APIs into real-world products  
+- Design systems from idea to deployment  
+- Turn concepts into usable AI tools  
+- Continuously improve UI, logic, and user experience  
 
 ---
 
 ## 📈 Current Focus
 
-* Building end-to-end AI applications
-* Improving project quality to production level
-* Learning prompt engineering & system design
+- Building end-to-end AI applications  
+- Learning FastAPI & backend development  
+- Improving project quality to production level  
+- Advanced Prompt Engineering  
+- System Design for AI Products  
+- Bigger portfolio projects  
 
 ---
 
 ## 🎯 Goal
 
-* To become a high-level AI Engineer building impactful AI systems
+- Become a high-level AI Engineer  
+- Build impactful AI systems used by real people  
+- Create products, solve problems, and keep growing  
 
 ---
 
 ## 📫 Contact
 
-* 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
+- 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
 
 ---
 
-⭐ Focused on building real systems and improving every day.
-
+⭐ Focused on building real systems, learning fast, and improving every day.
