@@ -68,8 +68,6 @@
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
 
-[![Launch Nexovia](https://img.shields.io/badge/🚀_Launch_Nexovia-00C2FF?style=for-the-badge&logoColor=white)](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
-
 ---
 
 #  AI Chatbot V2 (Robust + Memory + Web App)
