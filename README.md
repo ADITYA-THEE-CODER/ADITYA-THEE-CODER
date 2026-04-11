@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------------
 
-## 🚀 Nexovia AI
+# 🚀 Nexovia AI
 
 <p align="center">
   <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
