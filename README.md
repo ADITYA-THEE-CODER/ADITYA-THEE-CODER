@@ -2,13 +2,7 @@
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---------------------------------------------------------------------------------
-## 🚀 Nexovia AI
 
-[![Try Nexovia AI](https://img.shields.io/badge/Try-Nexovia_AI-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
-
-## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
-
------------------------------------------------------------------------------------
 ## 🚀 Nexovia AI
 
 <p align="center">
