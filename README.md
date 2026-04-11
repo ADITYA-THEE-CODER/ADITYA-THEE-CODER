@@ -2,8 +2,7 @@
 --  ABOUT ME 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
