@@ -3,6 +3,8 @@
 
 
 ---------------------------------------------------------------------------------
+![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
+
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
@@ -16,7 +18,6 @@
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 ---
 
 ## 🚀 Try My 1st AI Chatbot
