@@ -1,21 +1,16 @@
 # Hi, I'm Aditya 👋
 --  ABOUT ME 
 
-```md
----------------------------------------------------------------------------------
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&rank_icon=github)
-
-----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
-
-----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
 ---------------------------------------------------------------------------------
-```
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
+
+---------------------------------------------------------------------------------
+
 -
 
 
