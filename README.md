@@ -1,6 +1,7 @@
 # Hi, I'm Aditya 👋
 --  ABOUT ME 
 
+```md
 ---------------------------------------------------------------------------------
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&rank_icon=github)
@@ -14,6 +15,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
 ---------------------------------------------------------------------------------
+```
+-
 
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
