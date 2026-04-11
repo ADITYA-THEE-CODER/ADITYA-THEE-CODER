@@ -29,6 +29,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
 
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1E90FF?style=for-the-badge&logoColor=white)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -36,7 +40,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![SVM](https://img.shields.io/badge/SVM-FF4500?style=for-the-badge&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-FF1493?style=for-the-badge&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-8A2BE2?style=for-the-badge&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-00C2FF?style=for-the-badge&logoColor=white)
 
 -------------------------------------------------------------------------------------
 
