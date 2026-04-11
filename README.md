@@ -7,6 +7,11 @@
 
 [![🚀 Launch Nexovia AI](https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
 
+<p align="center">
+  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
+    <img src="https://img.shields.io/badge/🚀_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
 
 ## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
 
