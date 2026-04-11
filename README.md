@@ -1,6 +1,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-THEE-CODER&theme=tokyonight)
 # Hi, I'm Aditya 👋
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=ADITYA-THEE-CODER&theme=radical)
+
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---
