@@ -2,19 +2,19 @@
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---------------------------------------------------------------------------------
-## Streak
+# Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
-## Trophies 
+# Trophies 
 
 ![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
 
-## Stats
+# Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
-## Most Used Language
+# Most Used Language
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
@@ -51,7 +51,7 @@
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hw3s6hkbkwjy5vbche64ct.streamlit.app/)
 
-
+-----------------------------------------------------------------------------------
 
 ## 🧠 Skills
 
