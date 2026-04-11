@@ -9,6 +9,7 @@
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
