@@ -11,6 +11,8 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---------------------------------------------------------------------------------
 
 -
