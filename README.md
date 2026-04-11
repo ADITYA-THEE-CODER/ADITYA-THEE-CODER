@@ -8,9 +8,9 @@
 [![🚀 Launch Nexovia AI](https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
 
 
-[![🚀 Launch Nexovia AI](https://img.shields.io/badge/🚀_Launch_Nexovia_AI-5B2EFF?style=for-the-badge&labelColor=120022&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
+[![🚀 Launch Nexovia AI](https://img.shields.io/badge/_Launch_Nexovia_AI-5B2EFF?style=for-the-badge&labelColor=120022&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
 
-[![🚀 Launch Nexovia AI](https://img.shields.io/badge/🚀_Launch_Nexovia_AI-9D4EDD?style=for-the-badge&labelColor=240046&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
+[![🚀 Launch Nexovia AI](https://img.shields.io/badge/_Launch_Nexovia_AI-9D4EDD?style=for-the-badge&labelColor=240046&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
 
 
 <p align="center">
