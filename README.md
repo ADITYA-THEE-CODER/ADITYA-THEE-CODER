@@ -20,7 +20,7 @@
 
 -------------------------------------
 
-## 🧰 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -41,7 +41,7 @@
 -------------------------------------------------------------------------------------
 
 
-##  AI Chatbot V1
+#  AI Chatbot V1
 
 ## This is a real-time AI chatbot built using Groq API and Streamlit.
 
@@ -49,13 +49,13 @@
 
 ---
 
-##  AI Chatbot V2 (Robust + Memory + Web App)
+#  AI Chatbot V2 (Robust + Memory + Web App)
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hwgtl8qdjz4szvqstzdaps.streamlit.app/)
 
 ## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
 
-##  AI Chatbot V3 
+#  AI Chatbot V3 
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hw3s6hkbkwjy5vbche64ct.streamlit.app/)
 
@@ -63,14 +63,14 @@
 
 -----------------------------------------------------------------------------------
 
-## 🧠 Skills
+# 🧠 Skills
 
-### 💻 Programming
+## 💻 Programming
 - Python  
 - Basic SQL  
 - Git & GitHub  
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 - Supervised Learning  
 - Linear Regression  
 - Logistic Regression  
@@ -87,7 +87,7 @@
 - Bias–Variance Tradeoff  
 - Model Evaluation & Optimization  
 
-### 🧰 Libraries / Tools
+## 🧰 Libraries / Tools
 - NumPy  
 - Pandas  
 - Scikit-learn  
@@ -98,7 +98,7 @@
 - Google Colab  
 - VS Code  
 
-### ⚙️ Core Concepts
+## ⚙️ Core Concepts
 - API Integration  
 - Prompt Engineering  
 - State & Memory Handling  
@@ -109,7 +109,7 @@
 
 ---
 
-## 🛠️ What I Do
+# 🛠️ What I Do
 
 - Build AI-powered applications  
 - Develop chatbots with memory and context awareness  
@@ -120,7 +120,7 @@
 
 ---
 
-## 📈 Current Focus
+# 📈 Current Focus
 
 - Building end-to-end AI applications  
 - Learning FastAPI & backend development  
@@ -131,7 +131,7 @@
 
 ---
 
-## 🎯 Goal
+# 🎯 Goal
 
 - Become a high-level AI Engineer  
 - Build impactful AI systems used by real people  
@@ -139,7 +139,7 @@
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 - 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
 
