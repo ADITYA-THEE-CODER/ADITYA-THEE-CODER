@@ -12,6 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight&hide_border=true)
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## 🚀 Try My 1st AI Chatbot
