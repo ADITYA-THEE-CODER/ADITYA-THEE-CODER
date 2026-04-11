@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-THEE-CODER&theme=tokyonight)
 # Hi, I'm Aditya 👋
 
 ![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
