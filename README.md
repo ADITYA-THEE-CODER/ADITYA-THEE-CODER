@@ -6,12 +6,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
+# Trophies 
 
 ![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
 
+# Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
+# Most Used Language
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
