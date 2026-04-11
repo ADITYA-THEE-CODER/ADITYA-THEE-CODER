@@ -4,9 +4,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight&hide_border=true)
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---
