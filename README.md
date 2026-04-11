@@ -11,7 +11,10 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420" />
+</p>
+
 
 ---------------------------------------------------------------------------------
 
