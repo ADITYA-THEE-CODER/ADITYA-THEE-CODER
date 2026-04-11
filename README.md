@@ -77,4 +77,4 @@
 ---
 
 ⭐ Focused on building real systems and improving every day.
-⭐ *Focused on building, improving, and leveling up every single day.*
+
