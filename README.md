@@ -61,6 +61,26 @@
 
 -------------------------------------------------------------------------------------
 
+<!-- Chatbot V1 -->
+<p align="center">
+  <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
+    <img src="https://img.shields.io/badge/🤖_Launch_Chatbot_V1-FFD700?style=for-the-badge&logo=googlemessages&logoColor=black" />
+  </a>
+</p>
+
+<!-- Chatbot V2 -->
+<p align="center">
+  <a href="YOUR_LINK_2">
+    <img src="https://img.shields.io/badge/⚡_Launch_Chatbot_V2-FFC107?style=for-the-badge&logo=lightning&logoColor=black" />
+  </a>
+</p>
+
+<!-- Chatbot V3 -->
+<p align="center">
+  <a href="YOUR_LINK_3">
+    <img src="https://img.shields.io/badge/🧠_Launch_Chatbot_V3-FFB300?style=for-the-badge&logo=openai&logoColor=black" />
+  </a>
+</p>
 
 #  AI Chatbot V1
 
