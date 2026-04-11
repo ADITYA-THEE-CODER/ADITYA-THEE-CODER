@@ -61,26 +61,24 @@
 
 -------------------------------------------------------------------------------------
 
-<!-- Chatbot V1 -->
 <p align="center">
   <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
-    <img src="https://img.shields.io/badge/🤖_Launch_Chatbot_V1-FFD700?style=for-the-badge&logo=googlemessages&logoColor=black" />
+    <img src="https://img.shields.io/badge/🤖_Launch_Chatbot_V1-00C2FF?style=for-the-badge&logo=googlemessages&logoColor=white" />
   </a>
 </p>
 
-<!-- Chatbot V2 -->
 <p align="center">
-  <a href="YOUR_LINK_2">
-    <img src="https://img.shields.io/badge/⚡_Launch_Chatbot_V2-FFC107?style=for-the-badge&logo=lightning&logoColor=black" />
+  <a href="https://hwgtl8qdjz4szvqstzdaps.streamlit.app/">
+    <img src="https://img.shields.io/badge/⚡_Launch_Chatbot_V2-00C2FF?style=for-the-badge&logo=lightning&logoColor=white" />
   </a>
 </p>
 
-<!-- Chatbot V3 -->
 <p align="center">
-  <a href="YOUR_LINK_3">
-    <img src="https://img.shields.io/badge/🧠_Launch_Chatbot_V3-FFB300?style=for-the-badge&logo=openai&logoColor=black" />
+  <a href="https://hw3s6hkbkwjy5vbche64ct.streamlit.app/">
+    <img src="https://img.shields.io/badge/🧠_Launch_Chatbot_V3-00C2FF?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
 </p>
+
 
 #  AI Chatbot V1
 
