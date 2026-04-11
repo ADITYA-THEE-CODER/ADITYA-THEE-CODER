@@ -36,7 +36,7 @@
 
 ##  AI Chatbot V1
 
---This is a real-time AI chatbot built using Groq API and Streamlit.
+## This is a real-time AI chatbot built using Groq API and Streamlit.
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/)
 
@@ -46,11 +46,13 @@
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hwgtl8qdjz4szvqstzdaps.streamlit.app/)
 
---A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
+## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
 
 ## 🚀 AI Chatbot V3 
 
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hw3s6hkbkwjy5vbche64ct.streamlit.app/)
+
+## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit + Frontend
 
 -----------------------------------------------------------------------------------
 
