@@ -22,6 +22,8 @@
 👉 [![🚀 Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://hw3s6hkbkwjy5vbche64ct.streamlit.app/)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=radical)
+
 ## 🧠 Skills
 
 ### 💻 Programming
