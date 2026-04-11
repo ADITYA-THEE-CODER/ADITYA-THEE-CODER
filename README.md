@@ -2,6 +2,10 @@
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---------------------------------------------------------------------------------
+
+[![Try Nexovia AI](https://img.shields.io/badge/Try-Nexovia_AI-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai)
+
+-----------------------------------------------------------------------------------
 # Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
