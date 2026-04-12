@@ -16,7 +16,6 @@
 -----------------------------------------------------------------------------------
 # Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
 # Trophies 
 
