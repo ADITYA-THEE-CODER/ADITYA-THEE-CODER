@@ -100,51 +100,6 @@
 
 -----------------------------------------------------------------------------------
 
-# 🧠 Skills
-
-## 💻 Programming
-- Python  
-- Basic SQL  
-- Git & GitHub  
-
-## 🤖 AI / Machine Learning
-- Supervised Learning  
-- Linear Regression  
-- Logistic Regression  
-- KNN  
-- Decision Trees  
-- Random Forest  
-- XGBoost  
-- AdaBoost  
-- Support Vector Machines (SVM)  
-- Regularization (L1/L2)  
-- Feature Scaling  
-- Hyperparameter Tuning  
-- Cross Validation  
-- Bias–Variance Tradeoff  
-- Model Evaluation & Optimization  
-
-## 🧰 Libraries / Tools
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Streamlit  
-- LangChain  
-- Groq API  
-- Hugging Face  
-- Google Colab  
-- VS Code  
-
-## ⚙️ Core Concepts
-- API Integration  
-- Prompt Engineering  
-- State & Memory Handling  
-- Context Management  
-- Overfitting & Underfitting  
-- End-to-End ML Workflow  
-- Input → Processing → Output System Design  
-
----
 
 # 🛠️ What I Do
 
