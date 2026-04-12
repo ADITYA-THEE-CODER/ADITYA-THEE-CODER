@@ -44,6 +44,8 @@
 ![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge&logoColor=white)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1E90FF?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
