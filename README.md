@@ -60,7 +60,6 @@
 ![AdaBoost](https://img.shields.io/badge/AdaBoost-FF1493?style=for-the-badge&logoColor=white)
 ![KNN](https://img.shields.io/badge/KNN-8A2BE2?style=for-the-badge&logoColor=white)
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-00C2FF?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 -------------------------------------------------------------------------------------
