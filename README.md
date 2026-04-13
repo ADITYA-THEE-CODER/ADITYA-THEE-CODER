@@ -37,6 +37,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge&logoColor=white)
