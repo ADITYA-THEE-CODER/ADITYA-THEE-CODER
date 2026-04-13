@@ -130,9 +130,10 @@
 ---
 
 # 📫 Contact
-
 - 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
 
 ---
 
 ⭐ Focused on building real systems, learning fast, and improving every day.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-THEE-CODER&label=Profile%20views&color=00c3ff&style=for-the-badge)
