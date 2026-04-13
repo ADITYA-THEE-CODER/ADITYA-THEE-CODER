@@ -1,3 +1,5 @@
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
+
 # Hi, I'm Aditya 👋
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 --------------------------------------------------------------------------------
@@ -137,3 +139,4 @@
 ⭐ Focused on building real systems, learning fast, and improving every day.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-THEE-CODER&label=Profile%20views&color=00c3ff&style=for-the-badge)
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
