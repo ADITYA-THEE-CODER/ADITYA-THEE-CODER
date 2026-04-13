@@ -2,7 +2,6 @@
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 
 ---------------------------------------------------------------------------------
-
 # 🚀 Nexovia AI
 
 <p align="center">
@@ -12,7 +11,41 @@
 </p>
 
 ## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
+-----------------------------------------------------------------------------------
+#  AI Chatbot V1
 
+<p align="center">
+  <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
+    <img src="https://img.shields.io/badge/_Launch_Chatbot_V1-00C2FF?style=for-the-badge&logo=googlemessages&logoColor=white" />
+  </a>
+</p>
+
+## This is a real-time AI chatbot built using Groq API and Streamlit.
+
+---
+
+#  AI Chatbot V2 (Robust + Memory + Web App)
+
+<p align="center">
+  <a href="https://hwgtl8qdjz4szvqstzdaps.streamlit.app/">
+    <img src="https://img.shields.io/badge/_Launch_Chatbot_V2-00C2FF?style=for-the-badge&logo=lightning&logoColor=white" />
+  </a>
+</p>
+
+## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
+
+---
+
+#  AI Chatbot V3 
+
+
+<p align="center">
+  <a href="https://hw3s6hkbkwjy5vbche64ct.streamlit.app/">
+    <img src="https://img.shields.io/badge/🧠_Launch_Chatbot_V3-00C2FF?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+</p>
+
+## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit + Frontend
 -----------------------------------------------------------------------------------
 # Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
@@ -63,40 +96,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 -------------------------------------------------------------------------------------
-#  AI Chatbot V1
 
-<p align="center">
-  <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
-    <img src="https://img.shields.io/badge/_Launch_Chatbot_V1-00C2FF?style=for-the-badge&logo=googlemessages&logoColor=white" />
-  </a>
-</p>
-
-## This is a real-time AI chatbot built using Groq API and Streamlit.
-
----
-
-#  AI Chatbot V2 (Robust + Memory + Web App)
-
-<p align="center">
-  <a href="https://hwgtl8qdjz4szvqstzdaps.streamlit.app/">
-    <img src="https://img.shields.io/badge/_Launch_Chatbot_V2-00C2FF?style=for-the-badge&logo=lightning&logoColor=white" />
-  </a>
-</p>
-
-## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
-
----
-
-#  AI Chatbot V3 
-
-
-<p align="center">
-  <a href="https://hw3s6hkbkwjy5vbche64ct.streamlit.app/">
-    <img src="https://img.shields.io/badge/🧠_Launch_Chatbot_V3-00C2FF?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-</p>
-
-## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit + Frontend
 
 -----------------------------------------------------------------------------------
 
