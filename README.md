@@ -1,6 +1,16 @@
 # Hi, I'm Aditya 👋
 ### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
 --------------------------------------------------------------------------------
+# 🚀 Nexovia AI
+
+<p align="center">
+  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
+    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
+-------------------------------------------------------------------------------
 # Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
@@ -49,16 +59,6 @@
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-00C2FF?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
----------------------------------------------------------------------------------
-# 🚀 Nexovia AI
-
-<p align="center">
-  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
-    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
-</p>
-
-## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
 -----------------------------------------------------------------------------------
 #  AI Chatbot V1
 
