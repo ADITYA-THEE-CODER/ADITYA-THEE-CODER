@@ -20,7 +20,7 @@ ___________________________________________________
 
 <h1 align="center"> Streak </h1>
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
 <h1 align="center"> Trophies </h1>
 
