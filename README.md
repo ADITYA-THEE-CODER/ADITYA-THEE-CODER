@@ -106,7 +106,7 @@ ___________________________________________________
 
 -----------------------------------------------------------------------------------
 
-<h2 align="center"> 🛠️ What I Do </h2>
+<h1 align="center"> 🛠️ What I Do </h1>
 
 * Build AI-powered applications and tools
 * Develop chatbots with memory, context, and custom behavior
@@ -115,7 +115,7 @@ ___________________________________________________
 * Improve UI, backend logic, and user experience
 * Experiment with multi-model AI workflows and automation
 
-<h2 align="center"> 📈 Current Focus </h2>
+<h1 align="center"> 📈 Current Focus </h1>
 
 * Building end-to-end AI products
 * Learning FastAPI, APIs, and backend engineering
