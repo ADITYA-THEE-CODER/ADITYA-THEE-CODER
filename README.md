@@ -1,9 +1,12 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
 
-# Hi, I'm Aditya 👋
-### Aspiring AI Engineer | Python | Machine Learning | Building AI Systems
---------------------------------------------------------------------------------
-# 🚀 Nexovia AI
+<h1 align="center">  Hi , I'm Aditya 👋 </h1>
+
+<h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
+
+___________________________________________________
+
+<h1 align="center"> 🚀 Nexovia AI </h1>
 
 <p align="center">
   <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
@@ -11,27 +14,30 @@
   </a>
 </p>
 
-## A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers.
+<h2 align="center"> A custom AI coding assistant **personally built and designed by me** to deliver personalized guidance, practical coding help, and faster growth for developers. </h2>
+
 -------------------------------------------------------------------------------
-# Streak
+
+<h1 align="center"> Streak </h1>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER&theme=tokyonight)
 
 
-# Trophies 
+<h1 align="center"> Trophies </h1>
 
 ![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
 
-# Stats
+<h1 align="center"> Stats </h1>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
-# Most Used Language
+<h1 align="center"> Most Used Language </h1>
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
 
 -------------------------------------
 
-# 💻 Tech Stack
+<h1 align="center"> 💻 Tech Stack </h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -63,7 +69,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 -----------------------------------------------------------------------------------
-#  AI Chatbot V1
+<h1 align="center"> AI Chatbot V1 </h1>
 
 <p align="center">
   <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
@@ -71,11 +77,11 @@
   </a>
 </p>
 
-## This is a real-time AI chatbot built using Groq API and Streamlit.
+<h2 align="center"> This is a real-time AI chatbot built using Groq API and Streamlit. </h2>
 
 ---
 
-#  AI Chatbot V2 (Robust + Memory + Web App)
+<h1 align="center"> AI Chatbot V2 (Robust + Memory + Web App) </h1>
 
 <p align="center">
   <a href="https://hwgtl8qdjz4szvqstzdaps.streamlit.app/">
@@ -83,11 +89,11 @@
   </a>
 </p>
 
-## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit.
+<h2 align="center"> A robust AI chatbot with memory, error handling, and full web deployment using Streamlit. </h2>
 
 ---
 
-#  AI Chatbot V3 
+<h1 align="center">  AI Chatbot V3 </h1> 
 
 
 <p align="center">
@@ -96,15 +102,11 @@
   </a>
 </p>
 
-## A robust AI chatbot with memory, error handling, and full web deployment using Streamlit + Frontend
------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------
-
+<h2 align="center"> A robust AI chatbot with memory, error handling, and full web deployment using Streamlit + Frontend </h2>
 
 -----------------------------------------------------------------------------------
 
-## 🛠️ What I Do
+<h2 align="center"> 🛠️ What I Do </h2>
 
 * Build AI-powered applications and tools
 * Develop chatbots with memory, context, and custom behavior
@@ -113,7 +115,7 @@
 * Improve UI, backend logic, and user experience
 * Experiment with multi-model AI workflows and automation
 
-## 📈 Current Focus
+<h2 align="center"> 📈 Current Focus </h2>
 
 * Building end-to-end AI products
 * Learning FastAPI, APIs, and backend engineering
@@ -122,7 +124,7 @@
 * Creating stronger portfolio projects
 * Growing real developer skills through shipping projects
 
-## 🎯 Goal
+<h1 align="center"> 🎯 Goal </h1>
 
 * Become a high-level AI Engineer
 * Build useful AI systems used by real people
@@ -131,7 +133,7 @@
 
 ---
 
-# 📫 Contact
+<h1 align="center"> 📫 Contact </h1>
 - 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
 
 ---
