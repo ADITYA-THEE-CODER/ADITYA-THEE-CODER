@@ -133,6 +133,7 @@ ___________________________________________________
 ---
 
 <h1 align="center"> 📫 Contact </h1>
+
 - 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
 
 ---
