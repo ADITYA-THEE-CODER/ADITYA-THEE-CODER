@@ -6,14 +6,19 @@
 
 ___________________________________________________
 
+
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
 
 <p align="center">
-  <a href="https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/">
-    <img src="https://img.shields.io/badge/📄_Launch_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <a href="YOUR_PROJECT_LINK_HERE">
+    <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
+<h2 align="center">A PDF-based AI application that can summarize documents and answer questions using Groq LLM models.  
+Built with Python, Streamlit, secure API handling, and real-time prompt-based responses.</h2>
+
+____________________________________________________
 <h1 align="center"> 🚀 Nexovia AI </h1>
 
 <p align="center">
