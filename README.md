@@ -10,7 +10,7 @@ ___________________________________________________
 
 <p align="center">
   <a href="https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/">
-    <img src="https://img.shields.io/badge/📄_View_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄_Launch_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
