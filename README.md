@@ -6,6 +6,8 @@
 
 ___________________________________________________
 
+[![📄 View AI PDF Chatbot](https://img.shields.io/badge/View-AI_PDF_Chatbot-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/)
+
 <h1 align="center"> 🚀 Nexovia AI </h1>
 
 <p align="center">
