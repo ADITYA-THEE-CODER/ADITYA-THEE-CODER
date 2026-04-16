@@ -8,7 +8,11 @@ ___________________________________________________
 
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
 
-[![📄 View AI PDF Chatbot](https://img.shields.io/badge/View-AI_PDF_Chatbot-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/)
+<p align="center">
+  <a href="https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/">
+    <img src="https://img.shields.io/badge/📄_View_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 <h1 align="center"> 🚀 Nexovia AI </h1>
 
