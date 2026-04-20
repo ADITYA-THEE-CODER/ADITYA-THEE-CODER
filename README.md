@@ -1,27 +1,10 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00eaff&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff8008,100:ff0080&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:00ff87,100:60efff&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=000000)
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:8e2de2,100:4a00e0&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:ff416c,100:ff4b2b&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:141e30,100:243b55&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:f7971e,100:ffd200&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=000000)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:232526,100:414345&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ff4d4d)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff)
-
-![header]()
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;Building+Real+AI+Systems" />
+</p>
 
 <h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
 
