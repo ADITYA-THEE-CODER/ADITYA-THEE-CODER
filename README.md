@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00eaff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;Building+Real+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
 </p>
 
 <h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
