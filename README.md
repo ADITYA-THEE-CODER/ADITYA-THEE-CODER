@@ -25,7 +25,7 @@ ____________________________________________________
   </a>
 </p>
 
-<h2 align="center">A PDF-based AI application that can summarize documents and answer questions.</h2>
+<h2 align="center">A PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
 
 
 -------------------------------------------------------------------------------
