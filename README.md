@@ -25,8 +25,7 @@ ____________________________________________________
   </a>
 </p>
 
-<h2 align="center">A PDF-based AI application that can summarize documents and answer questions using Groq LLM models.  
-Built with Python, Streamlit, secure API handling, and real-time prompt-based responses.</h2>
+<h2 align="center">A PDF-based AI application that can summarize documents and answer questions.</h2>
 
 
 -------------------------------------------------------------------------------
