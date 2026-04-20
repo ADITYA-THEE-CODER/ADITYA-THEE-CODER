@@ -27,6 +27,16 @@ ____________________________________________________
 
 <h2 align="center">A PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
 
+<h1 align="center"> 🚀 AI PDF CHATBOT V2</h1>
+
+<p align="center">
+  <a href="https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center">This is the second version of the PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
+
 
 -------------------------------------------------------------------------------
 
