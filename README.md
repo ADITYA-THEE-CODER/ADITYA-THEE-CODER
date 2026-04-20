@@ -2,15 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00eaff&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=E879F9&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:3C096C,100:7B2CBF&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:7209B7,100:F72585&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,50:6A1B9A,100:8E24AA&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
