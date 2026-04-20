@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:081C15,50:1B4332,100:2D6A4F&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
 </p>
 
 ________________________________________________________________________________________________________
