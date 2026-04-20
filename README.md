@@ -1,6 +1,6 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
 
-<h1 align="center">  Hi , I'm Aditya 👋 </h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=200&section=header&text=Aditya%20Suryawanshi&fontSize=40&fontColor=ffffff)
 
 <h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
 
