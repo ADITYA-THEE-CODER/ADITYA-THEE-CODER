@@ -156,7 +156,12 @@ ____________________________________________________
 
 <h1 align="center"> 📫 Contact </h1>
 
-- 📧 [adityassuryawanshi25@gmail.com](mailto:adityassuryawanshi25@gmail.com)
+<p align="center">
+  <a href="mailto:adityassuryawanshi25@gmail.com">
+    <img src="https://img.shields.io/badge/_MAIL-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
