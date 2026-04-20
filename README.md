@@ -1,14 +1,6 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00eaff&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0B2447,100:19376D&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:081C15,50:1B4332,100:2D6A4F&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:240046,100:3C096C&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A0A,100:1A1A1A&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=00E5FF&animation=fadeIn)
 
