@@ -30,7 +30,7 @@ ____________________________________________________
 <h1 align="center"> 🚀 AI PDF CHATBOT V2</h1>
 
 <p align="center">
-  <a href="https://ai-pdf-chatbot-e9et8njeehgwwwpcdqgmjh.streamlit.app/">
+  <a href="https://aipdfchatbotv2-78z29nmgsvgrhya3rfxxx9.streamlit.app/">
     <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot_V2-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
