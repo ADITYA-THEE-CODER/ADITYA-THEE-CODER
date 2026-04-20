@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+%7C+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
 </p>
 
-___________________________________________________
+________________________________________________________________________________________________________
+
+
 <h1 align="center"> 🚀 Nexovia AI </h1>
 
 <p align="center">
@@ -17,7 +19,8 @@ ___________________________________________________
 
 <h2 align="center"> A custom AI coding assistant built and designed by me to deliver personalized guidance, practical coding help, and faster growth for developers. </h2>
 
-____________________________________________________
+________________________________________________________________________________________________________
+
 
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
 
@@ -28,6 +31,8 @@ ____________________________________________________
 </p>
 
 <h2 align="center">A PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
+
+________________________________________________________________________________________________________
 
 <h1 align="center"> 🚀 AI PDF CHATBOT V2</h1>
 
