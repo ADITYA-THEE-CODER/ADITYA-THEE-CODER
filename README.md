@@ -5,7 +5,16 @@
 <h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
 
 ___________________________________________________
+<h1 align="center"> 🚀 Nexovia AI </h1>
 
+<p align="center">
+  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
+    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center"> A custom AI coding assistant built and designed by me to deliver personalized guidance, practical coding help, and faster growth for developers. </h2>
+____________________________________________________
 
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
 
@@ -18,16 +27,6 @@ ___________________________________________________
 <h2 align="center">A PDF-based AI application that can summarize documents and answer questions using Groq LLM models.  
 Built with Python, Streamlit, secure API handling, and real-time prompt-based responses.</h2>
 
-____________________________________________________
-<h1 align="center"> 🚀 Nexovia AI </h1>
-
-<p align="center">
-  <a href="https://chatgpt.com/g/g-69da8f955fa481918bab05a6a750a6cf-nexovia-ai">
-    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
-</p>
-
-<h2 align="center"> A custom AI coding assistant built and designed by me to deliver personalized guidance, practical coding help, and faster growth for developers. </h2>
 
 -------------------------------------------------------------------------------
 
