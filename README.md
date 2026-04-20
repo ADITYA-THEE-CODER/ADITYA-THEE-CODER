@@ -2,6 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Suryawanshi&fontSize=40&fontAlignY=35)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=Aditya%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
+![header]()
+![header]()
+
 <h3 align="center"> Aspiring AI Engineer | Python | Machine Learning | AI Systems </h3>
 
 ___________________________________________________
