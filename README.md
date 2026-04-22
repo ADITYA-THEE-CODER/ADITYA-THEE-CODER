@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+ML;Python+%7C+FastApi+%7C+GenAI+%7C+Prompt+Engineering;Deployable+AI+Chatbots+%7C+Agentic+AI;AI+Systems" />
 </p>
 
-________________________________________________________________________________________________________
+_______________________________________________________________________________________________________
 
 
 <h1 align="center"> 🚀 Nexovia AI </h1>
