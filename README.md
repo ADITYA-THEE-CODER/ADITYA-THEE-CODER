@@ -46,10 +46,10 @@ ________________________________________________________________________________
 
 -------------------------------------------------------------------------------
 
-<h1 align="center"> 🚀 AI PDF CHATBOT V2</h1>
+<h1 align="center"> 🚀 AI PDF CHATBOT V3</h1>
 
 <p align="center">
-  <a href="https://aipdfchatbotv2-78z29nmgsvgrhya3rfxxx9.streamlit.app/">
+  <a href="https://ai-chatbot-ezxgv9jmdgcvj26mhimby8.streamlit.app/">
     <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot_V2-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
