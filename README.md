@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 <h2 align="center">This is the second version of the PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
 
+-------------------------------------------------------------------------------
 
 <h1 align="center"> 🚀 AI PDF CHATBOT V2</h1>
 
