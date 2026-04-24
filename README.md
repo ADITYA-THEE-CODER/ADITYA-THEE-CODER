@@ -54,7 +54,7 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<h2 align="center">This is the second version of the PDF-based AI application that can summarize documents and answer questions accordingly .</h2>
+<h2 align="center">This is an updated VERSION of the Chatbot .</h2>
 
 
 -------------------------------------------------------------------------------
