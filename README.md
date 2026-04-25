@@ -17,7 +17,7 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<h2 align="center"> A custom AI coding assistant built and designed by me to deliver personalized guidance, practical coding help, and faster growth for developers. </h2>
+<h2 align="center"> A custom AI coding assistant built and designed to deliver personalized guidance, practical coding help, and faster growth for developers. </h2> 
 
 ________________________________________________________________________________________________________
 
