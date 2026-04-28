@@ -111,7 +111,7 @@ ________________________________________________________________________________
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 -----------------------------------------------------------------------------------
-<h1 align="center"> AI Chatbot V1 </h1>
+<h1 align="center"> 🚀 AI Chatbot V1 </h1>
 
 <p align="center">
   <a href="https://fully-functioning-chatbot---2-xlxjtzjghkuibabytkgmwp.streamlit.app/">
@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
 ---
 
-<h1 align="center"> AI Chatbot V2 (Robust + Memory + Web App) </h1>
+<h1 align="center"> 🚀 AI Chatbot V2 (Robust + Memory + Web App) </h1>
 
 <p align="center">
   <a href="https://hwgtl8qdjz4szvqstzdaps.streamlit.app/">
@@ -135,7 +135,7 @@ ________________________________________________________________________________
 
 ---
 
-<h1 align="center">  AI Chatbot V3 </h1> 
+<h1 align="center"> 🚀 AI Chatbot V3 </h1> 
 
 
 <p align="center">
