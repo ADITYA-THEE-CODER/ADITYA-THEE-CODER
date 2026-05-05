@@ -9,6 +9,60 @@
 _______________________________________________________________________________________________________
 
 
+-------------------------------------------------------------------------------
+
+<h1 align="center"> Streak </h1>
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER\&theme=algolia\&cache_seconds=3600)
+
+
+<h1 align="center"> Trophies </h1>
+
+![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
+
+<h1 align="center"> Stats </h1>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
+
+<h1 align="center"> Most Used Language </h1>
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
+
+-------------------------------------
+
+<h1 align="center"> 💻 Tech Stack </h1>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1E90FF?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A86B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![SVM](https://img.shields.io/badge/SVM-FF4500?style=for-the-badge&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-FF1493?style=for-the-badge&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-8A2BE2?style=for-the-badge&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-00C2FF?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+-----------------------------------------------------------------------------------
 <h1 align="center"> 🚀 Nexovia AI </h1>
 
 <p align="center">
@@ -68,60 +122,7 @@ ________________________________________________________________________________
 <h2 align="center">This is an updated VERSION of the Chatbot .</h2>
 
 
--------------------------------------------------------------------------------
 
-<h1 align="center"> Streak </h1>
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ADITYA-THEE-CODER\&theme=algolia\&cache_seconds=3600)
-
-
-<h1 align="center"> Trophies </h1>
-
-![Trophies](https://github-trophies.vercel.app/?username=ADITYA-THEE-CODER&theme=tokyonight)
-
-<h1 align="center"> Stats </h1>
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
-
-<h1 align="center"> Most Used Language </h1>
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA-THEE-CODER&layout=compact&theme=tokyonight)
-
--------------------------------------
-
-<h1 align="center"> 💻 Tech Stack </h1>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1E90FF?style=for-the-badge&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00A86B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![SVM](https://img.shields.io/badge/SVM-FF4500?style=for-the-badge&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![AdaBoost](https://img.shields.io/badge/AdaBoost-FF1493?style=for-the-badge&logoColor=white)
-![KNN](https://img.shields.io/badge/KNN-8A2BE2?style=for-the-badge&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-00C2FF?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
------------------------------------------------------------------------------------
 <h1 align="center"> 🚀 AI Chatbot V1 </h1>
 
 <p align="center">
