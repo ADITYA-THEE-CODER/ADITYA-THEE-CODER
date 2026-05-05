@@ -20,6 +20,16 @@ ________________________________________________________________________________
 <h2 align="center"> A custom AI coding assistant built and designed to deliver personalized guidance, practical coding help, and faster growth for developers. </h2> 
 
 ________________________________________________________________________________________________________
+<h1 align="center"> 🚀 AI Town </h1>
+
+<p align="center">
+  <a href="https://ai-town-social-simul-kd87.bolt.host">
+    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center"> A custom AI coding assistant built and designed to deliver personalized guidance, practical coding help, and faster growth for developers. </h2> 
+________________________________________________________________________________________________________
 
 
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
