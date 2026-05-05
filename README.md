@@ -28,7 +28,7 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<h2 align="center"> A custom AI coding assistant built and designed to deliver personalized guidance, practical coding help, and faster growth for developers. </h2> 
+<h2 align="center"> AI Town is a multi-agent simulation app where AI characters with personalities, memory, and relationships interact with each other and the user. It focuses on creating a dynamic environment where conversations and behaviors evolve based on past interactions. </h2> 
 ________________________________________________________________________________________________________
 
 
