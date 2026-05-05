@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 <p align="center">
   <a href="https://ai-town-social-simul-kd87.bolt.host">
-    <img src="https://img.shields.io/badge/_Launch_Nexovia_AI-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Launch_AI_Town-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
 
