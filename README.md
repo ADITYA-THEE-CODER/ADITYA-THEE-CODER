@@ -157,24 +157,6 @@ ________________________________________________________________________________
 
 -----------------------------------------------------------------------------------
 
-<h1 align="center"> 🛠️ What I Do </h1>
-
-* Build AI-powered applications and tools
-* Develop chatbots with memory, context, and custom behavior
-* Integrate APIs into real-world products
-* Deploy projects from idea to live product
-* Improve UI, backend logic, and user experience
-* Experiment with multi-model AI workflows and automation
-
-<h1 align="center"> 📈 Current Focus </h1>
-
-* Building end-to-end AI products
-* Learning FastAPI, APIs, and backend engineering
-* Strengthening system design for AI applications
-* Advanced prompt engineering and LLM workflows
-* Creating stronger portfolio projects
-* Growing real developer skills through shipping projects
-
 <h1 align="center"> 🎯 Goal </h1>
 
 * Become a high-level AI Engineer
