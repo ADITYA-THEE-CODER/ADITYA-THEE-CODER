@@ -20,7 +20,6 @@ ________________________________________________________________________________
 
 <h1 align="center"> Stats </h1>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA-THEE-CODER&show_icons=true&theme=tokyonight)
 
 <h1 align="center"> Most Used Language </h1>
 
