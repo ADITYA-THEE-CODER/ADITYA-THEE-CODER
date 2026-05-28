@@ -112,7 +112,7 @@ ________________________________________________________________________________
 
 <p align="center">
   <a href="https://ai-chatbot-ezxgv9jmdgcvj26mhimby8.streamlit.app/">
-    <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot_V2-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Launch_AI_PDF_Chatbot_V3-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
