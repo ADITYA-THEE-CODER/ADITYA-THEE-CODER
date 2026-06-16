@@ -158,10 +158,6 @@ ________________________________________________________________________________
 -----------------------------------------------------------------------------------
 
 
-* Become a high-level AI Engineer
-* Build useful AI systems used by real people
-* Create products, solve meaningful problems, and keep leveling up
-* Turn skills into real opportunities and impact
 
 ---
 
