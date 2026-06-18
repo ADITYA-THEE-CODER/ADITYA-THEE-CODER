@@ -128,7 +128,7 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<h2 align="center"> This is a real-time AI chatbot built using Groq API and Streamlit. </h2>
+<h2 align="center"> This is a real time AI chatbot built using Groq API and Streamlit. </h2>
 
 ---
 
@@ -140,7 +140,7 @@ ________________________________________________________________________________
   </a>
 </p>
 
-<h2 align="center"> A robust AI chatbot with memory, error handling, and full web deployment using Streamlit. </h2>
+<h2 align="center"> A robust AI chatbot with memory, error handling, and full web deployment using Streamlit. </h2> 
 
 ---
 
