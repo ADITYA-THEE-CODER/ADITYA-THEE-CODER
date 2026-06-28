@@ -81,7 +81,7 @@ ________________________________________________________________________________
 
 <h2 align="center"> AI Town is a multi-agent simulation app where AI characters with personalities, memory, and relationships interact with each other and the user. It focuses on creating a dynamic environment where conversations and behaviors evolve based on past interactions. </h2> 
 
-________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________
 
 
 <h1 align="center"> 🚀 AI PDF CHATBOT </h1>
